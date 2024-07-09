@@ -14,7 +14,7 @@ Reports and Analytics: Generation of reports on book inventory, loan history, po
 
 Notifications: Automated notifications for overdue books, reservation confirmations, and system updates to keep users informed.
 
-Technology Stack:
+Technology Stack: <br/>
 Frontend: React.js for responsive and interactive user interfaces. <br/>
 Backend: Node.js for scalable backend logic and API development.<br/>
 Database: MySQL for efficient storage and retrieval of book data.<br/>
