@@ -1,6 +1,6 @@
 **The Book Management System is a robust web application designed to efficiently manage a library's collection of books. It provides librarians and administrators with tools to catalog, organize, and track books, ensuring easy access and maintenance of library resources. The system aims to streamline operations, enhance user experience, and optimize resource utilization within the library environment.**
 
-##Key Features:
+# Key Features:
 
 **Catalog Management:** Comprehensive cataloging of books including title, author, genre, ISBN, publication details, and availability status.
 
@@ -14,7 +14,7 @@
 
 **Notifications:** Automated notifications for overdue books, reservation confirmations, and system updates to keep users informed.
 
-##Technology Stack: <br/>
+# Technology Stack: <br/>
 **Frontend:** React.js for responsive and interactive user interfaces. <br/>
 **Backend:** Node.js for scalable backend logic and API development.<br/>
 **Database:** MySQL for efficient storage and retrieval of book data.<br/>
